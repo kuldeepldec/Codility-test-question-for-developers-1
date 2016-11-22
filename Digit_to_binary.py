@@ -16,7 +16,6 @@ def solution(N):    #function for binary to decimal
     count = 0
     prev = 0
     count2=0
-    print alist
     for i in range(0,len(alist)): #reading list and finding binary gap
        
         if alist[i]==1:
